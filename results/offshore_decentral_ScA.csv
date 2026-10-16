@@ -1,0 +1,11 @@
+Group,Parameter,Optimistic,Selected,Pessimistic
+Technology parameters,Electrolyser power consumption,4.10117461641933,4.6009782518246185,5.874870547352789
+Technology parameters,Electrolyser CAPEX,4.039806444179787,4.6009782518246185,5.162150059480649
+Technology parameters,Electrolyser stack lifetime,4.554181288481945,4.6009782518246185,4.727639256093464
+Design parameters,Distance to shore,5.216059065956495,4.6009782518246185,4.710127126536737
+Design parameters,Battery capacity,4.723508253867655,4.6009782518246185,4.9304269052534835
+Design parameters,Hydrogen infrastructure CAPEX,4.841863246819934,4.6009782518246185,6.76894320673766
+Design parameters,Baseload,4.341419107661702,4.6009782518246185,
+Design parameters,Offshore O&M differentiation,,4.6009782518246185,5.036626502105313
+Design parameters,Offshore process CAPEX x3 (par. 4.1),,4.6009782518246185,6.458460740876506
+Design parameters,Discount rate,4.021989756958441,4.6009782518246185,5.223090721436648

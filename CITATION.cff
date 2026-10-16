@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "Offshore wind-to-hydrogen supply chain model for the Dutch North Sea"
+message: "If you use this model, please cite both the software and the accompanying paper."
+type: software
+version: 1.0.0
+date-released: 2026-10-16
+license: MIT
+repository-code: "https://github.com/<user>/<repo>"
+doi: 10.5281/zenodo.XXXXXXX
+authors:
+  - family-names: Breedijk
+    given-names: David L.
+    affiliation: "Delft University of Technology"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+keywords:
+  - green hydrogen
+  - offshore wind
+  - electrolysis
+  - levelised cost of hydrogen
+  - techno-economic analysis
+  - Dutch North Sea
+preferred-citation:
+  type: article
+  title: "Offshore wind-based green hydrogen supply chains comparison for the Dutch North Sea region: Combining stakeholder-preference and techno-economic analysis"
+  authors:
+    - family-names: Breedijk
+      given-names: David L.
+    - family-names: Frowijn
+      given-names: Laurens S.F.
+  journal: "International Journal of Hydrogen Energy"
+  year: 2026
+  notes: "submitted"
