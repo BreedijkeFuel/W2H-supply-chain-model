@@ -5,13 +5,13 @@ type: software
 version: 1.0.0
 date-released: 2026-10-16
 license: MIT
-repository-code: "https://github.com/<user>/<repo>"
+repository-code: "https://github.com/BreedijkeFuel/W2H-supply-chain-model"
 doi: 10.5281/zenodo.XXXXXXX
 authors:
   - family-names: Breedijk
     given-names: David L.
     affiliation: "Delft University of Technology"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"
+    orcid: "https://orcid.org/0009-0007-7482-5100"
 keywords:
   - green hydrogen
   - offshore wind
